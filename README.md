@@ -1,1 +1,1 @@
-# íº¦ Simulador de SemÃ¡foro Inteligente
+# Ã­ÂºÂ¦ Simulador de Semaforo Inteligente
